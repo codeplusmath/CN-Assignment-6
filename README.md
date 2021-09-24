@@ -25,7 +25,7 @@ Your code should clearly modularise the functions
 udtsend()
 rdtsend()
 udtrecv()
-rdtrecv().
+rdtrecv()
 ```
 Every packet drop, timeout and retransmit should be printed one each side.
 
